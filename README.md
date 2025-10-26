@@ -22,6 +22,9 @@ For this you can head over to [the wiki](https://shadowmario.github.io/psychengi
 There you can learn how to use the 212 PlayState funcions in your mod!
 
 ## Credits:
+### Psych Engine Reborn
+* FilipAgain2763 - Does lots and Head of PER.
+### Psych Engine
 * Shadow Mario - Main Programmer and Head of Psych Engine.
 * Riveren - Main Artist/Animator of Psych Engine.
 
