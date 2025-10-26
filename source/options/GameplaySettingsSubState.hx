@@ -14,6 +14,12 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			BOOL); //Variable type
 		addOption(option);
 
+		var option:Option = new Option('Haxe Splash Screen', //Name
+			'If checked, the HaxeFlixel splash screen will play when you open the game.', //Description
+			'skipSplash', //Save data variable name
+			BOOL); //Variable type
+		addOption(option);
+
 		var option:Option = new Option('Middlescroll',
 			'If checked, your notes get centered.',
 			'middleScroll',
